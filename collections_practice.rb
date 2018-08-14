@@ -46,4 +46,5 @@ def add_s(array)
     if array.index(x) != 1 
       x << "s"
     end
+  end
 end
